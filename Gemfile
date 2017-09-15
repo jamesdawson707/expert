@@ -32,6 +32,8 @@ gem 'jbuilder'
 gem 'bootstrap-sass'
 
 gem 'devise'
+gem 'stripe'
+gem 'figaro'
 
 gem 'sitemap_generator'
 
